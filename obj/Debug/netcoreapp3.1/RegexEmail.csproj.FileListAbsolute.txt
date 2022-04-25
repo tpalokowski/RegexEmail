@@ -1,0 +1,14 @@
+D:\Desktop\SharpCode\RegexEmail\bin\Debug\netcoreapp3.1\RegexEmail.exe
+D:\Desktop\SharpCode\RegexEmail\bin\Debug\netcoreapp3.1\RegexEmail.deps.json
+D:\Desktop\SharpCode\RegexEmail\bin\Debug\netcoreapp3.1\RegexEmail.runtimeconfig.json
+D:\Desktop\SharpCode\RegexEmail\bin\Debug\netcoreapp3.1\RegexEmail.runtimeconfig.dev.json
+D:\Desktop\SharpCode\RegexEmail\bin\Debug\netcoreapp3.1\RegexEmail.dll
+D:\Desktop\SharpCode\RegexEmail\bin\Debug\netcoreapp3.1\RegexEmail.pdb
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.AssemblyInfoInputs.cache
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.AssemblyInfo.cs
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.csproj.CoreCompileInputs.cache
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.dll
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.pdb
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.genruntimeconfig.cache
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.csproj.AssemblyReference.cache
+D:\Desktop\SharpCode\RegexEmail\obj\Debug\netcoreapp3.1\RegexEmail.GeneratedMSBuildEditorConfig.editorconfig
